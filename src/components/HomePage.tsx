@@ -9,7 +9,7 @@ function HomePage() {
       className="min-h-screen first_page_bg flex items-center"
       aria-label="Home Section"
     >
-      <div className="container mx-auto px-6 ">
+      <div className="container mx-auto px-6 mt-20">
         <div className="max-w-5xl">
           <h1 className="text-6xl md:text-8xl font-bold mb-4">
             <span className="text-white">Building</span>
