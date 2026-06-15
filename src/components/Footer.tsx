@@ -1,7 +1,7 @@
 "use client";
 const Footer = () => {
   return (
-    <footer className="bg-slate-950 px-8 py-10 text-white">
+    <footer role="contentinfo" className="bg-slate-950 px-8 py-10 text-white">
       <div className="mx-auto flex max-w-6xl flex-col gap-8 md:flex-row md:items-center md:justify-between">
         <div className="space-y-3">
           <p className="text-lg font-semibold">James Black</p>

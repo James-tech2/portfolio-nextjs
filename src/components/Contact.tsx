@@ -1,5 +1,5 @@
 "use client";
-import { contactItems } from "@/data/contactContent";
+import { contactItems } from "../data/contactContent";
 
 interface ContactProps {
   contactItems: typeof contactItems;
